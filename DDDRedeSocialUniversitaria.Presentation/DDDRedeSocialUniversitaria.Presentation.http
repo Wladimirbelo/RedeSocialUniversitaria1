@@ -1,0 +1,6 @@
+@DDDRedeSocialUniversitaria.Presentation_HostAddress = http://localhost:5223
+
+GET {{DDDRedeSocialUniversitaria.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
